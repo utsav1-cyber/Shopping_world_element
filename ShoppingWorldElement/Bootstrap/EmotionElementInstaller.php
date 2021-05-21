@@ -30,7 +30,7 @@ class EmotionElementInstaller
     {
         $vimeoElement = $this->emotionComponentInstaller->createOrUpdate(
             $this->pluginName,
-            'SwagVimeoElement',
+            'ShoppingWorldElement',
             [
                 'name' => 'Vimeo Video',
                 'xtype' => 'emotion-components-vimeo',
